@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Darshan G Bidari 👋
 
-<!--
-**darshangbidari-dot/Darshangbidari-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science Engineering Student  
+💻 Aspiring Software Developer  
+🌱 Learning C, C++, and Web Development.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Programming Languages:** C, C++ , java
+- **Web Technologies:** HTML, CSS, JavaScript, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Academic Projects
+
+### Automatic Earthquake Detection and Alarm System
+- Academic project using Arduino Uno, an SW-420 vibration sensor, a buzzer, and a 16×2 LCD.
+- Designed to detect vibration and provide an audible and visual alert.
+
+### KNN-Based Clothing Recommendation System
+- Academic project focused on personalized outfit suggestions using the K-Nearest Neighbors (KNN) approach.
+
+## 🎯 Career Goal
+Seeking opportunities to learn, develop practical skills, and grow as a software developer.
+
+## 📫 Contact
+- **Email:** darshangbidari@gmail.com
+- **GitHub:** [darshangbidari-dot](https://github.com/darshangbidari-dot)

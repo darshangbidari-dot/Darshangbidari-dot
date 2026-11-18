@@ -1,7 +1,7 @@
 # Hi, I'm Darshan G Bidari 👋
 
 🎓 BE Computer Science Engineering Student / Coorg institute of technology
-💻 Aspiring fronthand developer  
+💻 Aspiring software developer  
 🌱 Learning C, C++, and Web Development.
 
 ## 🛠️ Technical Skills
